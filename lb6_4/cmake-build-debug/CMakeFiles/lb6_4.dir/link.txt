@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lb6_4.dir/main.cpp.o -o lb6_4 
